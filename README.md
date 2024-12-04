@@ -1,6 +1,6 @@
 # Shopping Trends SQL Case Study
-## Introduction
-### 📋 Overview
+
+### 📋 Introduction
 This project involves analyzing shopping trends using SQL queries. The dataset consists of various attributes about customer purchases, including categories, purchase amounts, reviews, and payment details. The purpose of this case study is to demonstrate SQL operations, including basic retrieval, aggregations, filtering, self-joins, subqueries, drop command and Common Table Expressions (CTEs).
 
 ### 📂 Dataset Details
